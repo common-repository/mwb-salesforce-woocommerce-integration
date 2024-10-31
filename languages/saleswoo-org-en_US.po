@@ -1,0 +1,416 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MWB Salesforce WooCommerce Integration\n"
+"POT-Creation-Date: 2018-12-07 16:18+0530\n"
+"PO-Revision-Date: 2018-12-07 16:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:75
+msgid "Salesforce"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:111
+#, php-format
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:112
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency symbols."
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:113
+msgid "Please enter in country code with two capital letters."
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:114
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:118
+msgid "Import"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:119
+msgid "Export"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:134
+msgid "Sorry no products found !"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:135
+msgid "Product Uploaded on Salesforce "
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:136
+msgid "Products uploaded successfully on Salesforce"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:137
+msgid "Product Created on Salesforce : "
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:138
+msgid "Product Not Created : "
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:141
+msgid "Product Deleted"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:142
+msgid "Product Not Deleted"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:143
+msgid "Product Uploaded Successfully"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:144
+msgid "Product not uploaded"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:160
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:216
+msgid "Connect with Salesforce"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:166
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:222
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:168
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:224
+msgid "Enable/Disable Integration"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:173
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:229
+msgid "Username"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:179
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:236
+msgid "Password"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:185
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:243
+msgid "Security Token"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:187
+msgid ""
+"How to get Salesforce Security Token ? <button type=\"button\" id="
+"\"saleswoo_token_info\">Click Here</button>"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:192
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:250
+msgid "Enable/ Disable Log"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:194
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:252
+#, php-format
+msgid ""
+"Enable logging of the requests. You can view Salesforce log file from <a "
+"href=\"%s\">Here</a>"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:292
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:476
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:590
+msgid "Error Establishing Connection"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:300
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:484
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:598
+msgid "Connection Established"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:515
+msgid "Product Not Uploaded"
+msgstr ""
+
+#: admin/class-mwb-salesforce-woocommerce-integration-admin.php:524
+msgid "Product Uploaded"
+msgstr ""
+
+#: admin/templates/saleswoo_org_account.php:3
+msgid "Create Account on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_account.php:5
+#: admin/templates/saleswoo_org_contact.php:5
+#: admin/templates/saleswoo_org_contract.php:5
+#: admin/templates/saleswoo_org_lead.php:5
+#: admin/templates/saleswoo_org_opportunity.php:5
+#: admin/templates/saleswoo_org_order.php:5
+msgid "Get this Feature Now"
+msgstr ""
+
+#: admin/templates/saleswoo_org_account.php:7
+msgid ""
+"Create new Account on Salesforce for your Customers or link your customers "
+"to a single Account on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:11
+msgid "Settings saved successfully."
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:18
+msgid "Please Click this button to Authorize with Salesforce."
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:19
+msgid "Authorize"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:30
+#: admin/templates/saleswoo_org_connect.php:45
+msgid "Save"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:57
+msgid "Congratulations! Your are now connected to your Salesforce Account."
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:60
+msgid "Proceed to Next Step"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:68
+msgid "How to get Salesforce Security Token ?"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:71
+msgid ""
+"Login to your organisation and Navigate to the top navigation bar go to "
+"\"your name\" <strong>My Settings > Personal  >  Reset My Security Token.</"
+"strong>"
+msgstr ""
+
+#: admin/templates/saleswoo_org_connect.php:74
+#: admin/templates/saleswoo_org_products.php:51
+msgid "Continue"
+msgstr ""
+
+#: admin/templates/saleswoo_org_contact.php:3
+msgid "Create Contact on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_contact.php:7
+msgid "A contact is created/updated on Salesforce whenever an order is placed."
+msgstr ""
+
+#: admin/templates/saleswoo_org_contract.php:3
+msgid "Create Contract on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_contract.php:7
+msgid ""
+"A contract is created/updated on Salesforce whenever an order is placed."
+msgstr ""
+
+#: admin/templates/saleswoo_org_lead.php:3
+msgid "Create Lead on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_lead.php:7
+msgid "A new lead can be created on Salesforce whenever an order is placed."
+msgstr ""
+
+#: admin/templates/saleswoo_org_main_template.php:15
+#: admin/templates/saleswoo_org_main_template.php:32
+msgid "MWB Salesforce WooCommerce Integration"
+msgstr ""
+
+#: admin/templates/saleswoo_org_main_template.php:18
+msgid "Contact US"
+msgstr ""
+
+#: admin/templates/saleswoo_org_main_template.php:19
+msgid "Go to Docs"
+msgstr ""
+
+#: admin/templates/saleswoo_org_main_template.php:20
+msgid "GO PRO NOW"
+msgstr ""
+
+#: admin/templates/saleswoo_org_opportunity.php:3
+msgid "Create Opportunity on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_opportunity.php:7
+msgid "An opportunity can be created on Salesforce with every order placed."
+msgstr ""
+
+#: admin/templates/saleswoo_org_order.php:3
+msgid "Create Order on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_order.php:7
+msgid ""
+"Whenever an order will be placed on your store then an order will be created "
+"on Salesforce along with order items in it."
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:6
+msgid "How our Integration works?"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:10
+msgid "What we upload?"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:12
+msgid "Products"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:17
+msgid "How easy is it?"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:19
+msgid "Just 1 steps to Go!"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:24
+msgid "What at the End?"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:26
+msgid "Product Details on Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:37
+msgid "Next"
+msgstr ""
+
+#: admin/templates/saleswoo_org_overview.php:43
+msgid "Get Started"
+msgstr ""
+
+#: admin/templates/saleswoo_org_product_table.php:102
+#: admin/templates/saleswoo_org_product_table.php:124
+msgid "Delete"
+msgstr ""
+
+#: admin/templates/saleswoo_org_product_table.php:105
+#: admin/templates/saleswoo_org_product_table.php:127
+msgid "Upload"
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:7
+msgid "We are uploading products from your store to Salesforce."
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:8
+msgid ""
+"Please do not navigate or reload the page before our confirmation message."
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:21
+msgid "Upload Products to Salesforce"
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:25
+msgid "Start Uploading Products to Salesforce  "
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:26
+msgid "Upload Now"
+msgstr ""
+
+#: admin/templates/saleswoo_org_products.php:38
+msgid "Uploaded Product Details"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:220
+msgid "Overview"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:222
+msgid "Connect"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:224
+msgid "Upload Products"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:228
+msgid "Account"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:230
+msgid "Contact"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:232
+msgid "Contract"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:234
+msgid "Lead"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:236
+msgid "Opportunity"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:238
+msgid "Order"
+msgstr ""
+
+#: includes/class-mwb-salesforce-woocommerce-integration.php:279
+#, php-format
+msgid ""
+"Unable to locate file path at location \"%s\" some features may not work "
+"properly in MWB Salesforce WooCommerce Integration, please contact us!"
+msgstr ""
+
+#: mwb-salesforce-woocommerce-integration.php:142
+msgid "Settings"
+msgstr ""
+
+#: mwb-salesforce-woocommerce-integration.php:240
+msgid ""
+"WooCommerce is not activated, Please activate WooCommerce first to install "
+"MWB Salesforce WooCommerce Integration ."
+msgstr ""
+
+#: mwb-salesforce-woocommerce-integration.php:261
+msgid ""
+"Oops! You tried activating the MWB Salesforce WooCommerce Integration "
+"without deactivating the another version of the integration. Kindly "
+"deactivate the other version of Salesforce WooCommerce Integration Pro and "
+"then try again."
+msgstr ""
+
+#: mwb-salesforce-woocommerce-integration.php:297
+msgid "Soap Client Not Found."
+msgstr ""
+
+#: mwb-salesforce-woocommerce-integration.php:298
+msgid ""
+"The MWB Salesforce WooCommerce Integration plugin requires Soap Client class "
+"enabled. Please contact your Web Server Administrator."
+msgstr ""
